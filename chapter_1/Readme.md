@@ -1,4 +1,4 @@
-| Command | What ot does |
+| Command | What it does |
 | ------- |:------------:| ----:|
 | pwd | print working directory |
 | hostname | my computer's network name |
