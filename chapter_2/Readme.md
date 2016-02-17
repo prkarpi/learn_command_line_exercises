@@ -10,9 +10,18 @@ Vassio-Book:chapter_9 $ pwd
 
 2) Are you in the class directory?
 
-No, I am not int he class directory; I am in the homework directory.
+No, I am not in the class directory; I am in the homework directory.
 
 3) Are you in your home directory?
 
 yes.
 
+4. What directory did you run that command in?
+
+/Users
+
+
+Do more...
+ pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd pwd
+ 
+ the pwd gave me /Users/user
