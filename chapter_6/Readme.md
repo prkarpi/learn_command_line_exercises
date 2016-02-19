@@ -47,3 +47,23 @@ System                    etc                       tmp
 Users                     home                      usr
 Volumes                   installer.failurerequests var
 
+> Describe what 'ls -ir' does in the Readme.md.
+
+'ls -ir' shows the ownership/protection of the file or directory.
+
+
+**** Comments Section ****
+
+I ran 'ls -l' and have gotten almost the same results in iTerm except the ordering of items. Here is the lowdown:
+
+Vassio-Book:chapter_6 $ ls -lr
+total 8
+drwxr-xr-x  3 user  staff   102 Feb 18 18:49 tmp
+-rw-r--r--  1 user  staff  1715 Feb 18 19:10 Readme.md
+
+(master) Nick Vass
+Vassio-Book:chapter_6 $ ls -l
+total 8
+-rw-r--r--  1 user  staff  1715 Feb 18 19:10 Readme.md
+drwxr-xr-x  3 user  staff   102 Feb 18 18:49 tmp
+
