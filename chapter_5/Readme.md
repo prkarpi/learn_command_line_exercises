@@ -1,6 +1,16 @@
 > Can you cd into the temp directory?
 
-In the working directory I will type "cd temp" - it will take me to temp directory.
+I 'cd' to get to home working directory and then  two levels down to:
+
+Vassio-Book:/ $ ls
+Applications              bin                       net
+Library                   cores                     private
+Network                   dev                       sbin
+System                    etc                       tmp
+Users                     home                      usr
+Volumes
+
+In this directory I will type "cd temp" - it will take me to temp directory.
   
 > Why don't we go into the temp directory?
 
@@ -8,7 +18,7 @@ No quiet sure the question, but we can "cd temp" to the temp directory.
 
 > Can you go to the slash temp directory?
 
-You cannot go to the slash temp dir (at least not with OSX), but using temp/dir1/dir2/dir3 - will put you in the dir3 
+  I understand the question - we've talked about this. There is a difference between 'tmp' and 'temp' directories. Also there is a 'tmp' directory in our chapter_5 directory. (I hope this answers this question). 
 
 > Can you go to the slash temp slash log directory?
 
@@ -28,4 +38,5 @@ bullet point answers:
 6. I decided to "cd" to applications from Documents dir; I "cd .." to root and then "cd ~/Applications"
 7. 
 # chapter_5
+
 
