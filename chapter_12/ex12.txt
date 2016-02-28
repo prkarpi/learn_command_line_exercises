@@ -1,0 +1,64 @@
+hello chapter 12 directory.
+
+```
+Open your text file again and repeatedly copy-paste the text so that it's about 50-100 lines long.
+Copy it to your temp directory again so you can look at it.
+Now do the exercise again, but this time page through it. On Unix you use the spacebar and w (the letter w) to go down and up. Arrow keys also work. On Windows just hit spacebar to page through.
+Look at some of the empty files you created too.
+The cp command will overwrite files that already exist so be careful copying files around.
+Open your text file again and repeatedly copy-paste the text so that it's about 50-100 lines long.
+Copy it to your temp directory again so you can look at it.
+Now do the exercise again, but this time page through it. On Unix you use the spacebar and w (the letter w) to go down and up. Arrow keys also work. On Windows just hit spacebar to page through.
+Look at some of the empty files you created too.
+The cp command will overwrite files that already exist so be careful copying files around.
+Open your text file again and repeatedly copy-paste the text so that it's about 50-100 lines long.
+Copy it to your temp directory again so you can look at it.
+Now do the exercise again, but this time page through it. On Unix you use the spacebar and w (the letter w) to go down and up. Arrow keys also work. On Windows just hit spacebar to page through.
+Look at some of the empty files you created too.
+The cp command will overwrite files that already exist so be careful copying files around.
+Open your text file again and repeatedly copy-paste the text so that it's about 50-100 lines long.
+Copy it to your temp directory again so you can look at it.
+Now do the exercise again, but this time page through it. On Unix you use the spacebar and w (the letter w) to go down and up. Arrow keys also work. On Windows just hit spacebar to page through.
+Look at some of the empty files you created too.
+The cp command will overwrite files that already exist so be careful copying files around.
+Open your text file again and repeatedly copy-paste the text so that it's about 50-100 lines long.
+Copy it to your temp directory again so you can look at it.
+Now do the exercise again, but this time page through it. On Unix you use the spacebar and w (the letter w) to go down and up. Arrow keys also work. On Windows just hit spacebar to page through.
+Look at some of the empty files you created too.
+The cp command will overwrite files that already exist so be careful copying files around.
+Open your text file again and repeatedly copy-paste the text so that it's about 50-100 lines long.
+Copy it to your temp directory again so you can look at it.
+Now do the exercise again, but this time page through it. On Unix you use the spacebar and w (the letter w) to go down and up. Arrow keys also work. On Windows just hit spacebar to page through.
+Look at some of the empty files you created too.
+The cp command will overwrite files that already exist so be careful copying files around.
+Open your text file again and repeatedly copy-paste the text so that it's about 50-100 lines long.
+Copy it to your temp directory again so you can look at it.
+Now do the exercise again, but this time page through it. On Unix you use the spacebar and w (the letter w) to go down and up. Arrow keys also work. On Windows just hit spacebar to page through.
+Look at some of the empty files you created too.
+The cp command will overwrite files that already exist so be careful copying files around.
+Open your text file again and repeatedly copy-paste the text so that it's about 50-100 lines long.
+Copy it to your temp directory again so you can look at it.
+Now do the exercise again, but this time page through it. On Unix you use the spacebar and w (the letter w) to go down and up. Arrow keys also work. On Windows just hit spacebar to page through.
+Look at some of the empty files you created too.
+The cp command will overwrite files that already exist so be careful copying files around.
+Open your text file again and repeatedly copy-paste the text so that it's about 50-100 lines long.
+Copy it to your temp directory again so you can look at it.
+Now do the exercise again, but this time page through it. On Unix you use the spacebar and w (the letter w) to go down and up. Arrow keys also work. On Windows just hit spacebar to page through.
+Look at some of the empty files you created too.
+The cp command will overwrite files that already exist so be careful copying files around.
+Open your text file again and repeatedly copy-paste the text so that it's about 50-100 lines long.
+Copy it to your temp directory again so you can look at it.
+Now do the exercise again, but this time page through it. On Unix you use the spacebar and w (the letter w) to go down and up. Arrow keys also work. On Windows just hit spacebar to page through.
+Look at some of the empty files you created too.
+The cp command will overwrite files that already exist so be careful copying files around.
+Open your text file again and repeatedly copy-paste the text so that it's about 50-100 lines long.
+Copy it to your temp directory again so you can look at it.
+Now do the exercise again, but this time page through it. On Unix you use the spacebar and w (the letter w) to go down and up. Arrow keys also work. On Windows just hit spacebar to page through.
+Look at some of the empty files you created too.
+The cp command will overwrite files that already exist so be careful copying files around.
+Open your text file again and repeatedly copy-paste the text so that it's about 50-100 lines long.
+Copy it to your temp directory again so you can look at it.
+Now do the exercise again, but this time page through it. On Unix you use the spacebar and w (the letter w) to go down and up. Arrow keys also work. On Windows just hit spacebar to page through.
+Look at some of the empty files you created too.
+The cp command will overwrite files that already exist so be careful copying files around.
+```
