@@ -1,0 +1,11 @@
+well, this is my first attempt to write into file using the 'cat' command
+line two.
+line three.CTRl-d
+CTRL-d
+
+cat
+exit
+:wq
+CTRL-d.
+
+
